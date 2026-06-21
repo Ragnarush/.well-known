@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.ragnarush.soumissiongo",
-    "sha256_cert_fingerprints": ["0F:2D:49:F7:DB:18:33:89:02:A0:BB:1A:F4:18:A9:09:9F:08:61:50:9C:F1:DA:FC:E7:63:75:F5:11:AF:BB:C6"]
+    "sha256_cert_fingerprints": ["0F:2D:49:F7:DB:18:33:89:02:A0:BB:1A:F4:18:A9:09:9F:08:61:50:9C:F1:DA:FC:E7:63:75:F5:11:AF:BB:C6", "51:A2:75:F0:FC:3C:A4:E1:82:EF:DA:28:DA:B0:11:2A:1B:C2:71:92:0B:9F:39:39:0C:36:81:14:F2:4B:A4:E1"]
   }
 }]
