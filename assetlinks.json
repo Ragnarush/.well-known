@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ragnarush.soumissiongo",
+    "sha256_cert_fingerprints": ["0F:2D:49:F7:DB:18:33:89:02:A0:BB:1A:F4:18:A9:09:9F:08:61:50:9C:F1:DA:FC:E7:63:75:F5:11:AF:BB:C6"]
+  }
+}]
